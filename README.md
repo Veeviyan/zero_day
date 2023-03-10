@@ -1,1 +1,1 @@
-https://github.com/Veeviyan/zero_day
+zero_day
